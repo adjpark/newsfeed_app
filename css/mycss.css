@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+#userModule{
+    margin-top: 100px;
+}
+
+#postModule{
+    margin-top: 100px;
+}
+
+/*--------------------User Module--------------------*/
+#userImg{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fbLogin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#googleMap{
+    width: 100%;
+    height: 300px;
+}
+
+#printUserName{
+    text-align: center;
+    font-size: 20pt;
+}
+
+#username{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+#avatar{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+#country{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+/*--------------------Post Module--------------------*/
+
+#postBut{
+    display: block;
+    float: right;
+    margin-top: 10px;
+}
+
+#postCountry{
+    margin-left: 25px;
+}
+
+#postArea{
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#postUsername{
+    float: right;
+}
+
+.panel{
+    margin-bottom: 50px !important;
+}
+
+#postedMsgs{
+    margin-top: 100px;
+}
+
+
+
+
